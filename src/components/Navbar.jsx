@@ -15,7 +15,7 @@ const Navbar = () => {
                 <div className="flex justify-between items-center ">
                     <div className="flex flex-shrink-0 items-center">
                         <img className='h-10 w-10 mr-2' src={logo} alt="" />
-                        <span className='text-xl tracking-tight'>Virtual World</span>
+                        <span className='text-xl tracking-tight'>VirtualR</span>
                     </div>
                     <ul className='hidden lg:flex ml-14 space-x-10'>
                         {
